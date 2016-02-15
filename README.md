@@ -3,4 +3,4 @@
 * Front-end development of a landing page for real estate project 
 * Stack: HTML, CSS, JavaScript (jQuery) 
 
-![alt text](https://github.com/schiz/realestate/raw/master/ishodnik.jpg "Realestate markup")
+![alt text](https://github.com/schiz/realestate/raw/master/ishodnik.png "Realestate markup")
